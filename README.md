@@ -17,3 +17,6 @@ To plot against the sample number instead of time, change `i/fs` to `i` in `Unit
 
 ## Build
 Open `BukaFileLaluPlot.dproj` in Delphi (RAD Studio, Community Edition works) and run it. It needs the VCL and TeeChart.
+
+## License
+Released under the [MIT License](LICENSE).
