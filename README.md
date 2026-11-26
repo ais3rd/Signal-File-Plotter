@@ -2,6 +2,8 @@
 
 A Delphi VCL app that opens a signal data file and plots it against time.
 
+![Signal file plotted against time](screenshot.png)
+
 ## Features
 - Opens a text file where each line is `time;value`, using a comma as the decimal separator (e.g. `0,002;-0,115`). Only the value after `;` is used.
 - Reads up to 5000 samples
